@@ -53,3 +53,24 @@
 11.[排序(上):为什么插入排序比冒泡排序更受欢迎](https://github.com/KIDXO/DS-A/blob/master/data/11.排序（上）：为什么插入排序比冒泡排序更受欢迎.md)
 
 12.[排序(下):如何用快排思想在O(n)内查找第K大元素](https://github.com/KIDXO/DS-A/blob/master/data/12.排序（下）：如何用快排思想在O(n)内查找第K大元素.md)
+
+13.[线性排序:如何根据年龄给100万用户数据排序](https://github.com/KIDXO/DS-A/blob/master/data/13.线性排序：如何根据年龄给100万用户数据排序.md)
+
+14.[排序优化:如何实现一个高性能通用的排序函数](https://github.com/KIDXO/DS-A/blob/master/data/14.排序优化：如何实现一个通用的、高性能的排序函数.md)
+
+15.[二分查找(上):如何用最省内存的方式实现快速查找功能](https://github.com/KIDXO/DS-A/blob/master/data/15.二分查找（上）：如何用最省内存的方式实现快速查找功能.md)
+
+16.[二分查找(下):如何快速定位IP对应的省份地址](https://github.com/KIDXO/DS-A/blob/master/data/16.二分查找（下）：如何快速定位IP对应的省份地址.md)
+
+### [第一阶段知识总结](https://github.com/KIDXO/DS-A/blob/master/resource/summary/第一阶段知识总结.jpg)
+
+17.[跳表:为什么Redis一定要用跳表来实现有序集合](https://github.com/KIDXO/DS-A/blob/master/data/17.跳表：为什么Redis一定要用跳表来实现有序集合.md)
+
+18.[散列表(上):Word文档中的单词拼写检查功能是如何实现的](https://github.com/KIDXO/DS-A/blob/master/data/18.散列表（上）：Word文档中的单词拼写检查功能是如何实现的.md)
+
+
+
+
+
+
+
