@@ -68,9 +68,9 @@
 
 18.[散列表(上):Word文档中的单词拼写检查功能是如何实现的](https://github.com/KIDXO/DS-A/blob/master/data/18.散列表（上）：Word文档中的单词拼写检查功能是如何实现的.md)
 
+19.[散列表(中):如何打造一个工业级水平的散列表](https://github.com/KIDXO/DS-A/blob/master/data/19.散列表（中）：如何打造一个工业级水平的散列表.md)
 
-
-
+20.[散列表(下):为什么散列表和链表经常会一起使用](https://github.com/KIDXO/DS-A/blob/master/data/20.散列表（下）：为什么散列表和链表经常会一起使用.md)
 
 
 
