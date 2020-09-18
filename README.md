@@ -83,6 +83,3 @@
 25.[红黑树(上):为什么工程中都用红黑树这种二叉树](https://github.com/KIDXO/DS-A/blob/master/data/25.红黑树（上）：为什么工程中都用红黑树这种二叉树.md)
 
 26.[红黑树(下):掌握这些技巧，你也可以实现一个红黑树](https://github.com/KIDXO/DS-A/blob/master/data/26.红黑树（下）：掌握这些技巧，你也可以实现一个红黑树.md)
-
-
-
