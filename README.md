@@ -72,5 +72,15 @@
 
 20.[散列表(下):为什么散列表和链表经常会一起使用](https://github.com/KIDXO/DS-A/blob/master/data/20.散列表（下）：为什么散列表和链表经常会一起使用.md)
 
+21.[哈希算法(上):如何防止数据库中的用户信息被脱库](https://github.com/KIDXO/DS-A/blob/master/data/21.哈希算法（上）：如何防止数据库中的用户信息被脱库.md)
 
+22.[哈希算法(下):哈希算法在分布式系统中有哪些应用](https://github.com/KIDXO/DS-A/blob/master/data/22.哈希算法（下）：哈希算法在分布式系统中有哪些应用.md)
+
+23.[二叉树基础(上):什么样的二叉树适合用数组来存储](https://github.com/KIDXO/DS-A/blob/master/data/23.二叉树基础（上）：什么样的二叉树适合用数组来存储.md)
+
+24.[二叉树基础(下):有了如此高效的散列表，为什么还需要二叉树](https://github.com/KIDXO/DS-A/blob/master/data/24.二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树.md)
+
+25.[红黑树(上):为什么工程中都用红黑树这种二叉树](https://github.com/KIDXO/DS-A/blob/master/data/25.红黑树（上）：为什么工程中都用红黑树这种二叉树.md)
+
+26.[红黑树(下):掌握这些技巧，你也可以实现一个红黑树](https://github.com/KIDXO/DS-A/blob/master/data/26.红黑树（下）：掌握这些技巧，你也可以实现一个红黑树.md)
 
